@@ -1,6 +1,6 @@
 ## ESP8266 Wifi R/C Car
 This code is built for Software Engineer, KMITL Openhouse session.
-## Speaker
+## Speaker/Instructor
 Warakorn Jetlohasiri(Software Engineering student, KMITL)
 ## Circuit
 You can follow the circuit outline in the file "ESP8266-Car-Circuit.pdf"
